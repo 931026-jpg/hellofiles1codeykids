@@ -1,0 +1,4 @@
+hello there
+i am the magical ghost of Python
+come to test you on your knowledge of files!
+wooowowoowowowo
