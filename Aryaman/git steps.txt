@@ -1,0 +1,21 @@
+//new repo
+right click folder background and find open with "Git Bash" 
+
+
+type git clone (HTTPS)
+
+open folder
+create files
+
+//every time you make an important change / before the end of class
+
+git add -A (adds all changed files to be pushed)
+git commit -m  "add a message"
+git push 
+
+
+//remove yourself as the global git account so no one messes with your account!
+
+git config --global --unset-all user.name
+git config --global --unset-all user.email
+
