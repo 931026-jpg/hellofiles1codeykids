@@ -89,7 +89,7 @@ def check_win():
 def reset_board(full_reset_mode=True):
     global grid, locked, selected_cell, lives, flash_cell, won, in_play, mode
 
-    grid = [[0] * 9 for _ in range(9)]
+    grid = [[0s] * 9 for _ in range(9)]
     locked = [[0] * 9 for _ in range(9)]
     selected_cell = None
     lives = 3
